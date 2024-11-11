@@ -1,0 +1,31 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "ARM",
+      "url": "https://tse1.mm.bing.net/th?id=OIP.Zh8_hVKgwIey8-2PP6zuBQHaJQ&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/rFgS10V8908"
+    }
+  ],
+  "history": [],
+  "category": [
+    {
+      "categoryName": "Movies",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "ARM",
+          "url": "https://tse1.mm.bing.net/th?id=OIP.Zh8_hVKgwIey8-2PP6zuBQHaJQ&pid=Api&P=0&h=180",
+          "link": "https://www.youtube.com/embed/rFgS10V8908"
+        },
+        {
+          "id": "2",
+          "caption": "Ra One",
+          "url": "https://tse2.mm.bing.net/th?id=OIP.hZscnXRG631iBSWn6vwJwwHaK0&pid=Api&P=0&h=180",
+          "link": "https://www.youtube.com/embed/d9PlHc_qVKw"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
